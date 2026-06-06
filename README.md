@@ -51,9 +51,9 @@ I build production-grade backend systems and Generative AI applications that shi
 
 ### 📈 GitHub Stats
 
-![Sravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sravyakirthana&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5)
+![Sravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sravyakirthana&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravyakirthana&layout=compact&theme=default&hide_border=true&title_color=185FA5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravyakirthana&layout=compact)
 
 ---
 
